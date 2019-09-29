@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CalculatedAnnualSalary.DataAccess\CalculatedAnnualSalary.DataAccess.csproj" />
+    <ProjectReference Include="..\CalculatedAnnualSalary.DTO\CalculatedAnnualSalary.DTO.csproj" />
+  </ItemGroup>
+
+</Project>

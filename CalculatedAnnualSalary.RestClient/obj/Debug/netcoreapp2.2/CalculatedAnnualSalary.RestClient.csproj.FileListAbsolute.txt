@@ -1,0 +1,9 @@
+C:\Users\jorge.puerta\Documents\Visual Studio 2017\Projects\MasGlobal.CalculatedAnnualSalary\CalculatedAnnualSalary.RestClient\obj\Debug\netcoreapp2.2\CalculatedAnnualSalary.RestClient.csprojAssemblyReference.cache
+C:\Users\jorge.puerta\Documents\Visual Studio 2017\Projects\MasGlobal.CalculatedAnnualSalary\CalculatedAnnualSalary.RestClient\obj\Debug\netcoreapp2.2\CalculatedAnnualSalary.RestClient.csproj.CoreCompileInputs.cache
+C:\Users\jorge.puerta\Documents\Visual Studio 2017\Projects\MasGlobal.CalculatedAnnualSalary\CalculatedAnnualSalary.RestClient\obj\Debug\netcoreapp2.2\CalculatedAnnualSalary.RestClient.AssemblyInfoInputs.cache
+C:\Users\jorge.puerta\Documents\Visual Studio 2017\Projects\MasGlobal.CalculatedAnnualSalary\CalculatedAnnualSalary.RestClient\obj\Debug\netcoreapp2.2\CalculatedAnnualSalary.RestClient.AssemblyInfo.cs
+C:\Users\jorge.puerta\Documents\Visual Studio 2017\Projects\MasGlobal.CalculatedAnnualSalary\CalculatedAnnualSalary.RestClient\bin\Debug\netcoreapp2.2\CalculatedAnnualSalary.RestClient.deps.json
+C:\Users\jorge.puerta\Documents\Visual Studio 2017\Projects\MasGlobal.CalculatedAnnualSalary\CalculatedAnnualSalary.RestClient\bin\Debug\netcoreapp2.2\CalculatedAnnualSalary.RestClient.dll
+C:\Users\jorge.puerta\Documents\Visual Studio 2017\Projects\MasGlobal.CalculatedAnnualSalary\CalculatedAnnualSalary.RestClient\bin\Debug\netcoreapp2.2\CalculatedAnnualSalary.RestClient.pdb
+C:\Users\jorge.puerta\Documents\Visual Studio 2017\Projects\MasGlobal.CalculatedAnnualSalary\CalculatedAnnualSalary.RestClient\obj\Debug\netcoreapp2.2\CalculatedAnnualSalary.RestClient.dll
+C:\Users\jorge.puerta\Documents\Visual Studio 2017\Projects\MasGlobal.CalculatedAnnualSalary\CalculatedAnnualSalary.RestClient\obj\Debug\netcoreapp2.2\CalculatedAnnualSalary.RestClient.pdb

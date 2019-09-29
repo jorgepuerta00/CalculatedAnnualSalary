@@ -1,0 +1,12 @@
+C:\Users\jorge.puerta\Documents\Visual Studio 2017\Projects\MasGlobal.CalculatedAnnualSalary\CalculatedAnnualSalary.DataAccess\bin\Release\netcoreapp2.1\CalculatedAnnualSalary.DataAccess.deps.json
+C:\Users\jorge.puerta\Documents\Visual Studio 2017\Projects\MasGlobal.CalculatedAnnualSalary\CalculatedAnnualSalary.DataAccess\bin\Release\netcoreapp2.1\CalculatedAnnualSalary.DataAccess.dll
+C:\Users\jorge.puerta\Documents\Visual Studio 2017\Projects\MasGlobal.CalculatedAnnualSalary\CalculatedAnnualSalary.DataAccess\bin\Release\netcoreapp2.1\CalculatedAnnualSalary.DataAccess.pdb
+C:\Users\jorge.puerta\Documents\Visual Studio 2017\Projects\MasGlobal.CalculatedAnnualSalary\CalculatedAnnualSalary.DataAccess\bin\Release\netcoreapp2.1\CalculatedAnnualSalary.DTO.dll
+C:\Users\jorge.puerta\Documents\Visual Studio 2017\Projects\MasGlobal.CalculatedAnnualSalary\CalculatedAnnualSalary.DataAccess\bin\Release\netcoreapp2.1\CalculatedAnnualSalary.DTO.pdb
+C:\Users\jorge.puerta\Documents\Visual Studio 2017\Projects\MasGlobal.CalculatedAnnualSalary\CalculatedAnnualSalary.DataAccess\obj\Release\netcoreapp2.1\CalculatedAnnualSalary.DataAccess.csprojAssemblyReference.cache
+C:\Users\jorge.puerta\Documents\Visual Studio 2017\Projects\MasGlobal.CalculatedAnnualSalary\CalculatedAnnualSalary.DataAccess\obj\Release\netcoreapp2.1\CalculatedAnnualSalary.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\jorge.puerta\Documents\Visual Studio 2017\Projects\MasGlobal.CalculatedAnnualSalary\CalculatedAnnualSalary.DataAccess\obj\Release\netcoreapp2.1\CalculatedAnnualSalary.DataAccess.AssemblyInfoInputs.cache
+C:\Users\jorge.puerta\Documents\Visual Studio 2017\Projects\MasGlobal.CalculatedAnnualSalary\CalculatedAnnualSalary.DataAccess\obj\Release\netcoreapp2.1\CalculatedAnnualSalary.DataAccess.AssemblyInfo.cs
+C:\Users\jorge.puerta\Documents\Visual Studio 2017\Projects\MasGlobal.CalculatedAnnualSalary\CalculatedAnnualSalary.DataAccess\obj\Release\netcoreapp2.1\CalculatedAnnualSalary.DataAccess.csproj.CopyComplete
+C:\Users\jorge.puerta\Documents\Visual Studio 2017\Projects\MasGlobal.CalculatedAnnualSalary\CalculatedAnnualSalary.DataAccess\obj\Release\netcoreapp2.1\CalculatedAnnualSalary.DataAccess.dll
+C:\Users\jorge.puerta\Documents\Visual Studio 2017\Projects\MasGlobal.CalculatedAnnualSalary\CalculatedAnnualSalary.DataAccess\obj\Release\netcoreapp2.1\CalculatedAnnualSalary.DataAccess.pdb

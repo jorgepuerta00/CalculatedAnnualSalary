@@ -1,0 +1,16 @@
+C:\Users\jorge.puerta\Documents\Visual Studio 2017\Projects\MasGlobal.CalculatedAnnualSalary\CalculatedAnnualSalary.BusinessLogic\bin\Debug\netcoreapp2.1\CalculatedAnnualSalary.BusinessLogic.deps.json
+C:\Users\jorge.puerta\Documents\Visual Studio 2017\Projects\MasGlobal.CalculatedAnnualSalary\CalculatedAnnualSalary.BusinessLogic\bin\Debug\netcoreapp2.1\CalculatedAnnualSalary.BusinessLogic.dll
+C:\Users\jorge.puerta\Documents\Visual Studio 2017\Projects\MasGlobal.CalculatedAnnualSalary\CalculatedAnnualSalary.BusinessLogic\bin\Debug\netcoreapp2.1\CalculatedAnnualSalary.BusinessLogic.pdb
+C:\Users\jorge.puerta\Documents\Visual Studio 2017\Projects\MasGlobal.CalculatedAnnualSalary\CalculatedAnnualSalary.BusinessLogic\bin\Debug\netcoreapp2.1\CalculatedAnnualSalary.DataAccess.dll
+C:\Users\jorge.puerta\Documents\Visual Studio 2017\Projects\MasGlobal.CalculatedAnnualSalary\CalculatedAnnualSalary.BusinessLogic\bin\Debug\netcoreapp2.1\CalculatedAnnualSalary.DTO.dll
+C:\Users\jorge.puerta\Documents\Visual Studio 2017\Projects\MasGlobal.CalculatedAnnualSalary\CalculatedAnnualSalary.BusinessLogic\bin\Debug\netcoreapp2.1\CalculatedAnnualSalary.DataAccess.pdb
+C:\Users\jorge.puerta\Documents\Visual Studio 2017\Projects\MasGlobal.CalculatedAnnualSalary\CalculatedAnnualSalary.BusinessLogic\bin\Debug\netcoreapp2.1\CalculatedAnnualSalary.DTO.pdb
+C:\Users\jorge.puerta\Documents\Visual Studio 2017\Projects\MasGlobal.CalculatedAnnualSalary\CalculatedAnnualSalary.BusinessLogic\obj\Debug\netcoreapp2.1\CalculatedAnnualSalary.BusinessLogic.csprojAssemblyReference.cache
+C:\Users\jorge.puerta\Documents\Visual Studio 2017\Projects\MasGlobal.CalculatedAnnualSalary\CalculatedAnnualSalary.BusinessLogic\obj\Debug\netcoreapp2.1\CalculatedAnnualSalary.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\jorge.puerta\Documents\Visual Studio 2017\Projects\MasGlobal.CalculatedAnnualSalary\CalculatedAnnualSalary.BusinessLogic\obj\Debug\netcoreapp2.1\CalculatedAnnualSalary.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\jorge.puerta\Documents\Visual Studio 2017\Projects\MasGlobal.CalculatedAnnualSalary\CalculatedAnnualSalary.BusinessLogic\obj\Debug\netcoreapp2.1\CalculatedAnnualSalary.BusinessLogic.AssemblyInfo.cs
+C:\Users\jorge.puerta\Documents\Visual Studio 2017\Projects\MasGlobal.CalculatedAnnualSalary\CalculatedAnnualSalary.BusinessLogic\obj\Debug\netcoreapp2.1\CalculatedAnnualSalary.BusinessLogic.csproj.CopyComplete
+C:\Users\jorge.puerta\Documents\Visual Studio 2017\Projects\MasGlobal.CalculatedAnnualSalary\CalculatedAnnualSalary.BusinessLogic\obj\Debug\netcoreapp2.1\CalculatedAnnualSalary.BusinessLogic.dll
+C:\Users\jorge.puerta\Documents\Visual Studio 2017\Projects\MasGlobal.CalculatedAnnualSalary\CalculatedAnnualSalary.BusinessLogic\obj\Debug\netcoreapp2.1\CalculatedAnnualSalary.BusinessLogic.pdb
+C:\Users\jorge.puerta\Documents\Visual Studio 2017\Projects\MasGlobal.CalculatedAnnualSalary\CalculatedAnnualSalary.BusinessLogic\bin\Debug\netcoreapp2.1\CalculatedAnnualSalary.RestClient.dll
+C:\Users\jorge.puerta\Documents\Visual Studio 2017\Projects\MasGlobal.CalculatedAnnualSalary\CalculatedAnnualSalary.BusinessLogic\bin\Debug\netcoreapp2.1\CalculatedAnnualSalary.RestClient.pdb
