@@ -1,9 +1,0 @@
-C:\Users\Jorge\source\repos\MasGlobal.CalculatedAnnualSalary\MasGlobal.CalculatedAnnualSalary.BusinessLogic\bin\Debug\netstandard2.0\MasGlobal.CalculatedAnnualSalary.BusinessLogic.deps.json
-C:\Users\Jorge\source\repos\MasGlobal.CalculatedAnnualSalary\MasGlobal.CalculatedAnnualSalary.BusinessLogic\bin\Debug\netstandard2.0\MasGlobal.CalculatedAnnualSalary.BusinessLogic.dll
-C:\Users\Jorge\source\repos\MasGlobal.CalculatedAnnualSalary\MasGlobal.CalculatedAnnualSalary.BusinessLogic\bin\Debug\netstandard2.0\MasGlobal.CalculatedAnnualSalary.BusinessLogic.pdb
-C:\Users\Jorge\source\repos\MasGlobal.CalculatedAnnualSalary\MasGlobal.CalculatedAnnualSalary.BusinessLogic\obj\Debug\netstandard2.0\MasGlobal.CalculatedAnnualSalary.BusinessLogic.csprojAssemblyReference.cache
-C:\Users\Jorge\source\repos\MasGlobal.CalculatedAnnualSalary\MasGlobal.CalculatedAnnualSalary.BusinessLogic\obj\Debug\netstandard2.0\MasGlobal.CalculatedAnnualSalary.BusinessLogic.csproj.CoreCompileInputs.cache
-C:\Users\Jorge\source\repos\MasGlobal.CalculatedAnnualSalary\MasGlobal.CalculatedAnnualSalary.BusinessLogic\obj\Debug\netstandard2.0\MasGlobal.CalculatedAnnualSalary.BusinessLogic.AssemblyInfoInputs.cache
-C:\Users\Jorge\source\repos\MasGlobal.CalculatedAnnualSalary\MasGlobal.CalculatedAnnualSalary.BusinessLogic\obj\Debug\netstandard2.0\MasGlobal.CalculatedAnnualSalary.BusinessLogic.AssemblyInfo.cs
-C:\Users\Jorge\source\repos\MasGlobal.CalculatedAnnualSalary\MasGlobal.CalculatedAnnualSalary.BusinessLogic\obj\Debug\netstandard2.0\MasGlobal.CalculatedAnnualSalary.BusinessLogic.dll
-C:\Users\Jorge\source\repos\MasGlobal.CalculatedAnnualSalary\MasGlobal.CalculatedAnnualSalary.BusinessLogic\obj\Debug\netstandard2.0\MasGlobal.CalculatedAnnualSalary.BusinessLogic.pdb

@@ -1,9 +1,0 @@
-C:\Users\Jorge\source\repos\MasGlobal.CalculatedAnnualSalary\MasGlobal.CalculatedAnnualSalary.DTO\bin\Debug\netstandard2.0\MasGlobal.CalculatedAnnualSalary.DTO.deps.json
-C:\Users\Jorge\source\repos\MasGlobal.CalculatedAnnualSalary\MasGlobal.CalculatedAnnualSalary.DTO\bin\Debug\netstandard2.0\MasGlobal.CalculatedAnnualSalary.DTO.dll
-C:\Users\Jorge\source\repos\MasGlobal.CalculatedAnnualSalary\MasGlobal.CalculatedAnnualSalary.DTO\bin\Debug\netstandard2.0\MasGlobal.CalculatedAnnualSalary.DTO.pdb
-C:\Users\Jorge\source\repos\MasGlobal.CalculatedAnnualSalary\MasGlobal.CalculatedAnnualSalary.DTO\obj\Debug\netstandard2.0\MasGlobal.CalculatedAnnualSalary.DTO.csprojAssemblyReference.cache
-C:\Users\Jorge\source\repos\MasGlobal.CalculatedAnnualSalary\MasGlobal.CalculatedAnnualSalary.DTO\obj\Debug\netstandard2.0\MasGlobal.CalculatedAnnualSalary.DTO.csproj.CoreCompileInputs.cache
-C:\Users\Jorge\source\repos\MasGlobal.CalculatedAnnualSalary\MasGlobal.CalculatedAnnualSalary.DTO\obj\Debug\netstandard2.0\MasGlobal.CalculatedAnnualSalary.DTO.AssemblyInfoInputs.cache
-C:\Users\Jorge\source\repos\MasGlobal.CalculatedAnnualSalary\MasGlobal.CalculatedAnnualSalary.DTO\obj\Debug\netstandard2.0\MasGlobal.CalculatedAnnualSalary.DTO.AssemblyInfo.cs
-C:\Users\Jorge\source\repos\MasGlobal.CalculatedAnnualSalary\MasGlobal.CalculatedAnnualSalary.DTO\obj\Debug\netstandard2.0\MasGlobal.CalculatedAnnualSalary.DTO.dll
-C:\Users\Jorge\source\repos\MasGlobal.CalculatedAnnualSalary\MasGlobal.CalculatedAnnualSalary.DTO\obj\Debug\netstandard2.0\MasGlobal.CalculatedAnnualSalary.DTO.pdb
