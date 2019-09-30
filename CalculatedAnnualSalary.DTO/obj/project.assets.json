@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jorge.puerta\\Documents\\Visual Studio 2017\\Projects\\MasGlobal.CalculatedAnnualSalary\\CalculatedAnnualSalary.DTO\\CalculatedAnnualSalary.DTO.csproj",
+      "projectUniqueName": "C:\\Users\\jorge.puerta\\Documents\\GitHub\\MasGlobal.CalculatedAnnualSalary\\CalculatedAnnualSalary.DTO\\CalculatedAnnualSalary.DTO.csproj",
       "projectName": "CalculatedAnnualSalary.DTO",
-      "projectPath": "C:\\Users\\jorge.puerta\\Documents\\Visual Studio 2017\\Projects\\MasGlobal.CalculatedAnnualSalary\\CalculatedAnnualSalary.DTO\\CalculatedAnnualSalary.DTO.csproj",
+      "projectPath": "C:\\Users\\jorge.puerta\\Documents\\GitHub\\MasGlobal.CalculatedAnnualSalary\\CalculatedAnnualSalary.DTO\\CalculatedAnnualSalary.DTO.csproj",
       "packagesPath": "C:\\Users\\jorge.puerta\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jorge.puerta\\Documents\\Visual Studio 2017\\Projects\\MasGlobal.CalculatedAnnualSalary\\CalculatedAnnualSalary.DTO\\obj\\",
+      "outputPath": "C:\\Users\\jorge.puerta\\Documents\\GitHub\\MasGlobal.CalculatedAnnualSalary\\CalculatedAnnualSalary.DTO\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -33,3 +33,38 @@ C:\Users\jorge.puerta\Documents\Visual Studio 2017\Projects\MasGlobal.Calculated
 C:\Users\jorge.puerta\Documents\Visual Studio 2017\Projects\MasGlobal.CalculatedAnnualSalary\CalculatedAnnualSalary.WebAppEmployees\obj\Debug\netcoreapp2.1\Razor\Views\Employee\Employee.g.cshtml.cs
 C:\Users\jorge.puerta\Documents\Visual Studio 2017\Projects\MasGlobal.CalculatedAnnualSalary\CalculatedAnnualSalary.WebAppEmployees\bin\Debug\netcoreapp2.1\CalculatedAnnualSalary.RestClient.dll
 C:\Users\jorge.puerta\Documents\Visual Studio 2017\Projects\MasGlobal.CalculatedAnnualSalary\CalculatedAnnualSalary.WebAppEmployees\bin\Debug\netcoreapp2.1\CalculatedAnnualSalary.RestClient.pdb
+C:\Users\jorge.puerta\Documents\GitHub\MasGlobal.CalculatedAnnualSalary\CalculatedAnnualSalary.WebAppEmployees\bin\Debug\netcoreapp2.1\CalculatedAnnualSalary.WebAppEmployees.deps.json
+C:\Users\jorge.puerta\Documents\GitHub\MasGlobal.CalculatedAnnualSalary\CalculatedAnnualSalary.WebAppEmployees\bin\Debug\netcoreapp2.1\CalculatedAnnualSalary.WebAppEmployees.runtimeconfig.json
+C:\Users\jorge.puerta\Documents\GitHub\MasGlobal.CalculatedAnnualSalary\CalculatedAnnualSalary.WebAppEmployees\bin\Debug\netcoreapp2.1\CalculatedAnnualSalary.WebAppEmployees.runtimeconfig.dev.json
+C:\Users\jorge.puerta\Documents\GitHub\MasGlobal.CalculatedAnnualSalary\CalculatedAnnualSalary.WebAppEmployees\bin\Debug\netcoreapp2.1\CalculatedAnnualSalary.WebAppEmployees.dll
+C:\Users\jorge.puerta\Documents\GitHub\MasGlobal.CalculatedAnnualSalary\CalculatedAnnualSalary.WebAppEmployees\bin\Debug\netcoreapp2.1\CalculatedAnnualSalary.WebAppEmployees.pdb
+C:\Users\jorge.puerta\Documents\GitHub\MasGlobal.CalculatedAnnualSalary\CalculatedAnnualSalary.WebAppEmployees\bin\Debug\netcoreapp2.1\CalculatedAnnualSalary.WebAppEmployees.Views.dll
+C:\Users\jorge.puerta\Documents\GitHub\MasGlobal.CalculatedAnnualSalary\CalculatedAnnualSalary.WebAppEmployees\bin\Debug\netcoreapp2.1\CalculatedAnnualSalary.WebAppEmployees.Views.pdb
+C:\Users\jorge.puerta\Documents\GitHub\MasGlobal.CalculatedAnnualSalary\CalculatedAnnualSalary.WebAppEmployees\bin\Debug\netcoreapp2.1\CalculatedAnnualSalary.RestClient.dll
+C:\Users\jorge.puerta\Documents\GitHub\MasGlobal.CalculatedAnnualSalary\CalculatedAnnualSalary.WebAppEmployees\bin\Debug\netcoreapp2.1\CalculatedAnnualSalary.RestClient.pdb
+C:\Users\jorge.puerta\Documents\GitHub\MasGlobal.CalculatedAnnualSalary\CalculatedAnnualSalary.WebAppEmployees\obj\Debug\netcoreapp2.1\CalculatedAnnualSalary.WebAppEmployees.csprojAssemblyReference.cache
+C:\Users\jorge.puerta\Documents\GitHub\MasGlobal.CalculatedAnnualSalary\CalculatedAnnualSalary.WebAppEmployees\obj\Debug\netcoreapp2.1\CalculatedAnnualSalary.WebAppEmployees.csproj.CoreCompileInputs.cache
+C:\Users\jorge.puerta\Documents\GitHub\MasGlobal.CalculatedAnnualSalary\CalculatedAnnualSalary.WebAppEmployees\obj\Debug\netcoreapp2.1\CalculatedAnnualSalary.WebAppEmployees.RazorAssemblyInfo.cache
+C:\Users\jorge.puerta\Documents\GitHub\MasGlobal.CalculatedAnnualSalary\CalculatedAnnualSalary.WebAppEmployees\obj\Debug\netcoreapp2.1\CalculatedAnnualSalary.WebAppEmployees.RazorAssemblyInfo.cs
+C:\Users\jorge.puerta\Documents\GitHub\MasGlobal.CalculatedAnnualSalary\CalculatedAnnualSalary.WebAppEmployees\obj\Debug\netcoreapp2.1\CalculatedAnnualSalary.WebAppEmployees.AssemblyInfoInputs.cache
+C:\Users\jorge.puerta\Documents\GitHub\MasGlobal.CalculatedAnnualSalary\CalculatedAnnualSalary.WebAppEmployees\obj\Debug\netcoreapp2.1\CalculatedAnnualSalary.WebAppEmployees.AssemblyInfo.cs
+C:\Users\jorge.puerta\Documents\GitHub\MasGlobal.CalculatedAnnualSalary\CalculatedAnnualSalary.WebAppEmployees\obj\Debug\netcoreapp2.1\CalculatedAnnualSalary.WebAppEmployees.TagHelpers.input.cache
+C:\Users\jorge.puerta\Documents\GitHub\MasGlobal.CalculatedAnnualSalary\CalculatedAnnualSalary.WebAppEmployees\obj\Debug\netcoreapp2.1\CalculatedAnnualSalary.WebAppEmployees.TagHelpers.output.cache
+C:\Users\jorge.puerta\Documents\GitHub\MasGlobal.CalculatedAnnualSalary\CalculatedAnnualSalary.WebAppEmployees\obj\Debug\netcoreapp2.1\CalculatedAnnualSalary.WebAppEmployees.RazorCoreGenerate.cache
+C:\Users\jorge.puerta\Documents\GitHub\MasGlobal.CalculatedAnnualSalary\CalculatedAnnualSalary.WebAppEmployees\obj\Debug\netcoreapp2.1\Razor\Views\Employee\Employee.g.cshtml.cs
+C:\Users\jorge.puerta\Documents\GitHub\MasGlobal.CalculatedAnnualSalary\CalculatedAnnualSalary.WebAppEmployees\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\jorge.puerta\Documents\GitHub\MasGlobal.CalculatedAnnualSalary\CalculatedAnnualSalary.WebAppEmployees\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\jorge.puerta\Documents\GitHub\MasGlobal.CalculatedAnnualSalary\CalculatedAnnualSalary.WebAppEmployees\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\jorge.puerta\Documents\GitHub\MasGlobal.CalculatedAnnualSalary\CalculatedAnnualSalary.WebAppEmployees\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\jorge.puerta\Documents\GitHub\MasGlobal.CalculatedAnnualSalary\CalculatedAnnualSalary.WebAppEmployees\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\jorge.puerta\Documents\GitHub\MasGlobal.CalculatedAnnualSalary\CalculatedAnnualSalary.WebAppEmployees\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\jorge.puerta\Documents\GitHub\MasGlobal.CalculatedAnnualSalary\CalculatedAnnualSalary.WebAppEmployees\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\jorge.puerta\Documents\GitHub\MasGlobal.CalculatedAnnualSalary\CalculatedAnnualSalary.WebAppEmployees\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\jorge.puerta\Documents\GitHub\MasGlobal.CalculatedAnnualSalary\CalculatedAnnualSalary.WebAppEmployees\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\jorge.puerta\Documents\GitHub\MasGlobal.CalculatedAnnualSalary\CalculatedAnnualSalary.WebAppEmployees\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\jorge.puerta\Documents\GitHub\MasGlobal.CalculatedAnnualSalary\CalculatedAnnualSalary.WebAppEmployees\obj\Debug\netcoreapp2.1\CalculatedAnnualSalary.WebAppEmployees.RazorTargetAssemblyInfo.cache
+C:\Users\jorge.puerta\Documents\GitHub\MasGlobal.CalculatedAnnualSalary\CalculatedAnnualSalary.WebAppEmployees\obj\Debug\netcoreapp2.1\CalculatedAnnualSalary.WebAppEmployees.RazorTargetAssemblyInfo.cs
+C:\Users\jorge.puerta\Documents\GitHub\MasGlobal.CalculatedAnnualSalary\CalculatedAnnualSalary.WebAppEmployees\obj\Debug\netcoreapp2.1\CalculatedAnnualSalary.WebAppEmployees.Views.pdb
+C:\Users\jorge.puerta\Documents\GitHub\MasGlobal.CalculatedAnnualSalary\CalculatedAnnualSalary.WebAppEmployees\obj\Debug\netcoreapp2.1\CalculatedAnnualSalary.WebAppEmployees.csproj.CopyComplete
+C:\Users\jorge.puerta\Documents\GitHub\MasGlobal.CalculatedAnnualSalary\CalculatedAnnualSalary.WebAppEmployees\obj\Debug\netcoreapp2.1\CalculatedAnnualSalary.WebAppEmployees.dll
+C:\Users\jorge.puerta\Documents\GitHub\MasGlobal.CalculatedAnnualSalary\CalculatedAnnualSalary.WebAppEmployees\obj\Debug\netcoreapp2.1\CalculatedAnnualSalary.WebAppEmployees.pdb

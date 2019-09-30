@@ -3,17 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.572
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatedAnnualSalary.DataAccess", "CalculatedAnnualSalary.DataAccess\CalculatedAnnualSalary.DataAccess.csproj", "{712C001D-0EE9-487F-9C0E-95C9B7907540}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculatedAnnualSalary.DataAccess", "CalculatedAnnualSalary.DataAccess\CalculatedAnnualSalary.DataAccess.csproj", "{712C001D-0EE9-487F-9C0E-95C9B7907540}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatedAnnualSalary.BusinessLogic", "CalculatedAnnualSalary.BusinessLogic\CalculatedAnnualSalary.BusinessLogic.csproj", "{23F226D3-1286-4A29-8298-9CF0E86B0BA9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculatedAnnualSalary.BusinessLogic", "CalculatedAnnualSalary.BusinessLogic\CalculatedAnnualSalary.BusinessLogic.csproj", "{23F226D3-1286-4A29-8298-9CF0E86B0BA9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatedAnnualSalary.DTO", "CalculatedAnnualSalary.DTO\CalculatedAnnualSalary.DTO.csproj", "{20B65FCD-B6F6-4090-9D61-27F947A3E43F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculatedAnnualSalary.DTO", "CalculatedAnnualSalary.DTO\CalculatedAnnualSalary.DTO.csproj", "{20B65FCD-B6F6-4090-9D61-27F947A3E43F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatedAnnualSalary.wsAnnualSalary", "CalculatedAnnualSalary.wsAnnualSalary\CalculatedAnnualSalary.wsAnnualSalary.csproj", "{2B3FD39B-3639-4B56-94D6-712ABC539B81}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculatedAnnualSalary.wsAnnualSalary", "CalculatedAnnualSalary.wsAnnualSalary\CalculatedAnnualSalary.wsAnnualSalary.csproj", "{2B3FD39B-3639-4B56-94D6-712ABC539B81}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatedAnnualSalary.WebAppEmployees", "CalculatedAnnualSalary.WebAppEmployees\CalculatedAnnualSalary.WebAppEmployees.csproj", "{F098DD7F-6EEA-480E-90A6-876639443226}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculatedAnnualSalary.WebAppEmployees", "CalculatedAnnualSalary.WebAppEmployees\CalculatedAnnualSalary.WebAppEmployees.csproj", "{F098DD7F-6EEA-480E-90A6-876639443226}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatedAnnualSalary.RestClient", "CalculatedAnnualSalary.RestClient\CalculatedAnnualSalary.RestClient.csproj", "{4DB9B172-E8E7-4478-A3C9-5DDE3D44A857}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculatedAnnualSalary.RestClient", "CalculatedAnnualSalary.RestClient\CalculatedAnnualSalary.RestClient.csproj", "{4DB9B172-E8E7-4478-A3C9-5DDE3D44A857}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculatedAnnualSalary.WebAppAngular", "CalculatedAnnualSalary.WebAppAngular\CalculatedAnnualSalary.WebAppAngular.csproj", "{E2FB63C0-7F7A-4989-A42E-7E88180C75F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatedAnnualSalary.UnitTest", "CalculatedAnnualSalary.UnitTest\CalculatedAnnualSalary.UnitTest.csproj", "{17B3824F-1451-47DB-9E1C-BC75E935B153}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +49,14 @@ Global
 		{4DB9B172-E8E7-4478-A3C9-5DDE3D44A857}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4DB9B172-E8E7-4478-A3C9-5DDE3D44A857}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4DB9B172-E8E7-4478-A3C9-5DDE3D44A857}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2FB63C0-7F7A-4989-A42E-7E88180C75F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2FB63C0-7F7A-4989-A42E-7E88180C75F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2FB63C0-7F7A-4989-A42E-7E88180C75F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2FB63C0-7F7A-4989-A42E-7E88180C75F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17B3824F-1451-47DB-9E1C-BC75E935B153}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17B3824F-1451-47DB-9E1C-BC75E935B153}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17B3824F-1451-47DB-9E1C-BC75E935B153}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17B3824F-1451-47DB-9E1C-BC75E935B153}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

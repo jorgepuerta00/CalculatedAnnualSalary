@@ -12639,11 +12639,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jorge.puerta\\Documents\\Visual Studio 2017\\Projects\\MasGlobal.CalculatedAnnualSalary\\CalculatedAnnualSalary.wsAnnualSalary\\CalculatedAnnualSalary.wsAnnualSalary.csproj",
+      "projectUniqueName": "C:\\Users\\jorge.puerta\\Documents\\GitHub\\MasGlobal.CalculatedAnnualSalary\\CalculatedAnnualSalary.wsAnnualSalary\\CalculatedAnnualSalary.wsAnnualSalary.csproj",
       "projectName": "CalculatedAnnualSalary.wsAnnualSalary",
-      "projectPath": "C:\\Users\\jorge.puerta\\Documents\\Visual Studio 2017\\Projects\\MasGlobal.CalculatedAnnualSalary\\CalculatedAnnualSalary.wsAnnualSalary\\CalculatedAnnualSalary.wsAnnualSalary.csproj",
+      "projectPath": "C:\\Users\\jorge.puerta\\Documents\\GitHub\\MasGlobal.CalculatedAnnualSalary\\CalculatedAnnualSalary.wsAnnualSalary\\CalculatedAnnualSalary.wsAnnualSalary.csproj",
       "packagesPath": "C:\\Users\\jorge.puerta\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jorge.puerta\\Documents\\Visual Studio 2017\\Projects\\MasGlobal.CalculatedAnnualSalary\\CalculatedAnnualSalary.wsAnnualSalary\\obj\\",
+      "outputPath": "C:\\Users\\jorge.puerta\\Documents\\GitHub\\MasGlobal.CalculatedAnnualSalary\\CalculatedAnnualSalary.wsAnnualSalary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12662,11 +12662,11 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\jorge.puerta\\Documents\\Visual Studio 2017\\Projects\\MasGlobal.CalculatedAnnualSalary\\CalculatedAnnualSalary.BusinessLogic\\CalculatedAnnualSalary.BusinessLogic.csproj": {
-              "projectPath": "C:\\Users\\jorge.puerta\\Documents\\Visual Studio 2017\\Projects\\MasGlobal.CalculatedAnnualSalary\\CalculatedAnnualSalary.BusinessLogic\\CalculatedAnnualSalary.BusinessLogic.csproj"
+            "C:\\Users\\jorge.puerta\\Documents\\GitHub\\MasGlobal.CalculatedAnnualSalary\\CalculatedAnnualSalary.BusinessLogic\\CalculatedAnnualSalary.BusinessLogic.csproj": {
+              "projectPath": "C:\\Users\\jorge.puerta\\Documents\\GitHub\\MasGlobal.CalculatedAnnualSalary\\CalculatedAnnualSalary.BusinessLogic\\CalculatedAnnualSalary.BusinessLogic.csproj"
             },
-            "C:\\Users\\jorge.puerta\\Documents\\Visual Studio 2017\\Projects\\MasGlobal.CalculatedAnnualSalary\\CalculatedAnnualSalary.DataAccess\\CalculatedAnnualSalary.DataAccess.csproj": {
-              "projectPath": "C:\\Users\\jorge.puerta\\Documents\\Visual Studio 2017\\Projects\\MasGlobal.CalculatedAnnualSalary\\CalculatedAnnualSalary.DataAccess\\CalculatedAnnualSalary.DataAccess.csproj"
+            "C:\\Users\\jorge.puerta\\Documents\\GitHub\\MasGlobal.CalculatedAnnualSalary\\CalculatedAnnualSalary.DataAccess\\CalculatedAnnualSalary.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\jorge.puerta\\Documents\\GitHub\\MasGlobal.CalculatedAnnualSalary\\CalculatedAnnualSalary.DataAccess\\CalculatedAnnualSalary.DataAccess.csproj"
             }
           }
         }

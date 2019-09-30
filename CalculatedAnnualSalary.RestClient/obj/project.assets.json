@@ -759,11 +759,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jorge.puerta\\Documents\\Visual Studio 2017\\Projects\\MasGlobal.CalculatedAnnualSalary\\CalculatedAnnualSalary.RestClient\\CalculatedAnnualSalary.RestClient.csproj",
+      "projectUniqueName": "C:\\Users\\jorge.puerta\\Documents\\GitHub\\MasGlobal.CalculatedAnnualSalary\\CalculatedAnnualSalary.RestClient\\CalculatedAnnualSalary.RestClient.csproj",
       "projectName": "CalculatedAnnualSalary.RestClient",
-      "projectPath": "C:\\Users\\jorge.puerta\\Documents\\Visual Studio 2017\\Projects\\MasGlobal.CalculatedAnnualSalary\\CalculatedAnnualSalary.RestClient\\CalculatedAnnualSalary.RestClient.csproj",
+      "projectPath": "C:\\Users\\jorge.puerta\\Documents\\GitHub\\MasGlobal.CalculatedAnnualSalary\\CalculatedAnnualSalary.RestClient\\CalculatedAnnualSalary.RestClient.csproj",
       "packagesPath": "C:\\Users\\jorge.puerta\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jorge.puerta\\Documents\\Visual Studio 2017\\Projects\\MasGlobal.CalculatedAnnualSalary\\CalculatedAnnualSalary.RestClient\\obj\\",
+      "outputPath": "C:\\Users\\jorge.puerta\\Documents\\GitHub\\MasGlobal.CalculatedAnnualSalary\\CalculatedAnnualSalary.RestClient\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
